@@ -82,3 +82,13 @@ git checkout main {this one will moves to the main file and all the commits will
 https://github.com/sashrikakaur/GHWFirstConttribution
 created a fork from this and will do contributions to this.
 
+git branch newBranch
+
+git checkout newBranch
+
+will do the same as 
+
+git checkout -b newBranch 
+
+but in one line, so better to use this in terminal
+
