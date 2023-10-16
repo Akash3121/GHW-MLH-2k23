@@ -6,7 +6,7 @@ Takeout's:
 
 # Getting Started on Digital Ocean
 12 - 1pm CT
-by Aanishkasb
+by Aaishikasb
 
 This is the Live: https://lobster-app-z7cax.ondigitalocean.app/
 
