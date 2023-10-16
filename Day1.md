@@ -10,3 +10,4 @@ by Aanishkasb
 
 This is the Live: https://lobster-app-z7cax.ondigitalocean.app/
 
+Approach to follow anywhere: **star, fork, clone, create-new-branch; make changes; save; add, commit, push, 'Compare & PR'**
