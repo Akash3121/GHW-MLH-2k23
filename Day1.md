@@ -26,4 +26,6 @@ Aashika'a Rep: https://github.com/aaishikasb/ghw-demo
 
 # Supercharging your Hackathon Projects with Open Source
 1pm - 3pm CT
-by Dimmer
+by Dimmer his mailid: nathandimmer@gmail.com
+
+Given around 9-10 project ideas and exlained an Idea.
