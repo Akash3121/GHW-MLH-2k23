@@ -98,3 +98,8 @@ git add . {tracks the file}
 
 git commit -m "Add my name to readme"
 
+git remote -v {2 origin links will appear one is the main one and other is the upstream one}
+
+> Upstream is the sashrikas project which i forked from, Origin is my main project.
+
+
