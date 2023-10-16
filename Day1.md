@@ -70,4 +70,7 @@ Below is the details given in the twitch live stream:
 3pm to 5pm CT by Sashrika
 
 Github vs Git
-Github is like a web platform to store.  
+Github is like a web platform to store.
+
+Learn GitBranching:
+checout command will move to different brach, if not present creates a new branch
