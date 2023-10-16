@@ -74,3 +74,6 @@ Github is like a web platform to store.
 
 Learn GitBranching:
 checout command will move to different brach, if not present creates a new branch
+
+git checkout -b newBramch {creates a new branch}
+
