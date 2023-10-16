@@ -77,3 +77,5 @@ checout command will move to different brach, if not present creates a new branc
 
 git checkout -b newBramch {creates a new branch and the current will moves to this newBranch, when we commit it adds to newBranch and not to the main branch}
 
+git checkout main {this one will moves to the main file and all the commits will go into this}
+
