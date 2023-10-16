@@ -67,3 +67,4 @@ Below is the details given in the twitch live stream:
 <hr>
 
 # Making your First Open Source Contribution
+3pm to 5pm CT
