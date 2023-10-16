@@ -92,3 +92,9 @@ git checkout -b newBranch
 
 but in one line, so better to use this in terminal
 
+
+Once you have edited the file:
+git add . {tracks the file}
+
+git commit -m "Add my name to readme"
+
