@@ -24,4 +24,6 @@ Aashika'a Rep: https://github.com/aaishikasb/ghw-demo
 <hr>
 <hr>
 
- 
+# Supercharging your Hackathon Projects with Open Source
+1pm - 3pm CT
+by Dimmer
