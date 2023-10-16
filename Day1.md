@@ -69,3 +69,5 @@ Below is the details given in the twitch live stream:
 # Making your First Open Source Contribution
 3pm to 5pm CT by Sashrika
 
+Github vs Git
+Github is like a web platform to store.  
