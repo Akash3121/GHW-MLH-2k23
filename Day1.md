@@ -109,3 +109,5 @@ Created a PR: https://github.com/sashrikakaur/GHWFirstConttribution/pull/26
 
 # GeoGuessr Mini Event
 
+Not atteded
+
