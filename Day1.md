@@ -112,3 +112,5 @@ Created a PR: https://github.com/sashrikakaur/GHWFirstConttribution/pull/26
 Not atteded
 
 # Swift Open Source Contributions Part 1
+9pm to 11pm by Kari
+
